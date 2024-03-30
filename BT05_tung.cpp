@@ -2,6 +2,57 @@
 
 using namespace std;
 
+//Cau A1:
+//int a[100];
+//int c[5] = {1,2,3,4};
+////int c[3] = {1,2,3,4}
+//int e[] = {1,2,3,4};
+//int main()
+//{
+//    int b[10];
+//    int d[5] = {1,2,3,4};
+//    //int d[3] = {1,2,3,4};
+//    int f[] = {1,2,3,4};
+//    for (int i= 0;i<5;i++) {
+//        cout << c[i] << d[i] << e[i] << f[i];
+//    }
+//
+//}
+
+//Cau A2:
+//char a[10];
+////char c[4] = "abcd";
+//char e[] = "abcd";
+//using namespace std;
+//int main() {
+//   char a[10];
+//   char d[5] = "abcd";
+//   char e[] = "abcd";
+//   for (int i= 0;i<5;i++) {
+//    cout <<  d[i] << e[i];
+//   }
+//   cout << sizeof(e);
+//}
+
+//Cau A3:
+//int main() {
+//    char daytab[][12] = {
+//      {31,28,31,30,31,30,31,31,30,31,30,31},
+//      {31,29,31,30,31,30,31,31,30,31,30,31}
+//    };
+//    char daytab1[] = {
+//      31,28,31,30,31,30,31,31,30,31,30,31,
+//      31,29,31,30,31,30,31,31,30,31,30,31
+//    };
+//    for(int i = 0;i<2;i++) {
+//        for (int j =0;j<12;j++) {
+//            cout << daytab1[i] << ' ';
+//
+//        }
+//        cout << endl;
+//    }
+//}
+
 //Cau C1:
 //int main(){
 //    int n, temp;
